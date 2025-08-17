@@ -21,8 +21,6 @@ This project displays **200+ emojis** with their names and meanings, along with 
 ---
 
 
-![Contact App Screenshot](public/ss.png)
-
 ## ▶️ Getting Started
 If you're running this locally in VS Code use the commands:
   npm install
